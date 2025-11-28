@@ -81,8 +81,7 @@ Feel free to submit issues or pull requests to improve this project.
 
 This project uses the `mlxtend.frequent_patterns` module for Apriori, FP-Growth, and association rules.
 
-
-
+---
 
 ## 📊 Resources
 
