@@ -1,7 +1,7 @@
 # Frequent-Pattern-Mining
 # Market Basket Analysis using Apriori & FP-Growth
 
-This repository contains a complete implementation of **Frequent Itemset Mining** and **Association Rule Learning** using Python. The project demonstrates the entire workflow: data preprocessing, converting raw transactions into a one-hot encoded matrix, mining frequent itemsets using two classic algorithms (Apriori and FP-Growth), and extracting powerful association rules.
+This repository contains a complete implementation of **Frequent Itemset Mining** and **Association Rule Learning** using Python. The project demonstrates the entire workflow: data preprocessing, converting raw transactions into a one-hot encoded matrix, mining frequent itemsets using two classic algorithms (Apriori and FP-Growth), and extracting powerful association rules.This project uses the `mlxtend.frequent_patterns` module for Apriori, FP-Growth, and association rules.
 
 ---
 
@@ -77,9 +77,6 @@ MIT License.
 
 Feel free to submit issues or pull requests to improve this project.
 
----
-
-This project uses the `mlxtend.frequent_patterns` module for Apriori, FP-Growth, and association rules.
 
 ---
 
